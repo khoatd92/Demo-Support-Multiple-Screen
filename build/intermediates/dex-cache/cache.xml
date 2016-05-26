@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\King\AndroidStudioProjects\android-chat-application\SupportingMultipleScreens\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b62c5a6e181c2da1277b4840f9cc30c1bd8be782">
+        <dex dex="C:\Users\King\AndroidStudioProjects\android-chat-application\SupportingMultipleScreens\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5e91e82bbfe343b73bf3e0080fbee28a5babb047.jar" />
+    </item>
+
+</items>
